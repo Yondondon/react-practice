@@ -1,0 +1,54 @@
+.my_anime_list__page_wrapper {
+  padding: 100px 10% 0;
+}
+
+.mal_table {
+  display: flex;
+  flex-direction: column;
+}
+
+.mal_table__header {
+  display: flex;
+  background-color: #b64343;
+}
+
+.mal_table__header_column {
+  padding: 10px;
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.mal_table__header_column:nth-child(1),
+.mal_table__header_column:nth-child(2) {
+  width: 40%;
+}
+
+.mal_table__header_column:nth-child(3) {
+  width: 20%;
+}
+
+.mal_table__row {
+  display: flex;
+  background-color: #ffffff;
+  border-bottom: 1px solid #858585;
+}
+
+.mal_table__row:last-child {
+  border: none;
+}
+
+.mal_table__column {
+  padding: 5px 10px;
+}
+
+.mal_table__column:nth-child(1),
+.mal_table__column:nth-child(2) {
+  width: 40%;
+  border-right: 1px solid #858585;
+}
+
+.mal_table__column:nth-child(3) {
+  width: 20%;
+  text-align: center;
+}

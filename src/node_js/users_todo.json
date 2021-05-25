@@ -1,0 +1,56 @@
+[
+  {
+    "username": "Yon",
+    "todo_app": {
+      "todos": [
+        {
+          "text": "todo1",
+          "id": "0.8928346092731625"
+        },
+        {
+          "text": "f;lsdk;flksd;f",
+          "id": "0.32021634393487886"
+        }
+      ],
+      "completed_todos": [
+        {
+          "text": "todo2",
+          "id": "0.6896470059176616"
+        },
+        {
+          "text": "123",
+          "id": "0.868211070194929"
+        },
+        {
+          "text": "completed_todo1",
+          "id": "0.05977451391056254"
+        },
+        {
+          "text": "completed_todo2",
+          "id": "0.4330151273867837"
+        }
+      ]
+    }
+  },
+  {
+    "username": "Ivan",
+    "todo_app": {
+      "todos": [
+        {
+          "text": "todo4",
+          "id": "0.6848911576587275"
+        },
+        {
+          "text": "todo3",
+          "id": "0.688295581209607"
+        }
+      ],
+      "completed_todos": [
+        {
+          "text": "completed_todo3",
+          "id": "0.19513728403704889"
+        }
+      ]
+    }
+  }
+]
