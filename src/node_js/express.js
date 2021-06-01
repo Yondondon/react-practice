@@ -1,9 +1,7 @@
 const express = require("express");
 const app = express();
 const url = require('url');
-// const fs = require('fs');
 const MongoClient = require("mongodb").MongoClient;
-// const { get } = require("http");
 
 
 app.get("/get_todos", (req, res) => {
